@@ -1,2 +1,2 @@
-# hellow-world
-MyfirstrepositoryonGitHub
+Myfirst repository on GitHub
+luyifei032
